@@ -244,7 +244,7 @@ Primary use:
 [ L-Text >= 26 ]*/
 .l1-txt1 {
   font-family: Montserrat-Thin;
-  font-size: 40px;
+  font-size: 5vw;
   color: #fff;
   line-height: 1.1;
   text-transform: uppercase;
